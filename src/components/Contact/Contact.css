@@ -1,0 +1,15 @@
+.contact {
+  flex-direction: column;
+}
+
+.about__contact {
+  margin-top: 2.7em;
+}
+
+.link--icon {
+  margin-right: 0.8em;
+}
+
+.btn--outline {
+  margin-right: 1em;
+}
